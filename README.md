@@ -1,6 +1,6 @@
-# Go-Comments README
+# go-comments README
 
-This is the README for your extension "Go-Comments". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "go-comments". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
