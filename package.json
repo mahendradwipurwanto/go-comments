@@ -18,7 +18,9 @@
     }],
     "keybindings": [{
       "command": "extension.generateComment",
-      "key": "ctrl+alt+c"
+      "key": "ctrl+alt+c",
+      "mac": "cmd+alt+c",
+      "when": "editorTextFocus"
     }]
   },
   "scripts": {
