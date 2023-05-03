@@ -1,6 +1,6 @@
 # Go-Comments Generator
 
-[![Installs](https://img.shields.io/visual-studio-marketplace/v/ronvanderheijden.Golangdoc-generator)](https://marketplace.visualstudio.com/items?itemName=NgodinginIndonesia.go-comments)
+[![Installs](https://img.shields.io/visual-studio-marketplace/v/NgodinginIndonesia.go-comments)](https://marketplace.visualstudio.com/items?itemName=NgodinginIndonesia.go-comments)
 
 Go-Comments Generator is [a VSCode extension](https://marketplace.visualstudio.com/items?itemName=NgodinginIndonesia.go-comments) that generates a Golang documentation block using a keyboard shortcut.
 
