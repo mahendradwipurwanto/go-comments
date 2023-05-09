@@ -12,7 +12,7 @@ If Go-Comments Generator is unable to accurately detect the data type it will us
 # Keyboard Shortcuts & Settings
 Looking for the keyboard shotcuts and settings? Search for `go-commnets`.
 - For windows use ctrl + alt + c
-- For mac use command + alt + c
+- For mac use command + option + c
 
 # License
 Go-Comments Generator is open source and licensed under [the MIT licence]
